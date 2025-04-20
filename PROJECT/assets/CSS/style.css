@@ -1,19 +1,19 @@
 body {
     background-color: #e9ecef;
-    font-family: 'Arial', sans-serif;
-    color: #343a40;
+    font-family: 'Times New Roman', sans-serif;
+    color: #1c1c1c;
 }
 
 h1 {
     margin-bottom: 20px;
     text-align: center;
     font-size: 2.5rem;
-    color: #6f42c1; /* Cor do título */
+    color: #ffefdb; /* Cor do título */
 }
 
 .container {
     max-width: 600px;
-    background-color: #32a0a6;
+    background-color: #ff34b3;
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -57,4 +57,3 @@ footer {
     font-size: 0.9rem;
     color: #6c757d;
 }
-
