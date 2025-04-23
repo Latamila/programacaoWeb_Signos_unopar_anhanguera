@@ -28,5 +28,15 @@ KANBAN:
 http://localhost/project/show_zodiac_sign.php
 
 ![image](https://github.com/user-attachments/assets/3e063258-e673-438c-b22d-381d7357bc86)
+![image](https://github.com/user-attachments/assets/2c878cc7-36e2-4231-b49c-2720cfbe1709)
+![image](https://github.com/user-attachments/assets/e5eb2bbf-cee0-4ad0-98f5-f955c7f7f01e)
+![image](https://github.com/user-attachments/assets/088bd67d-5be8-4791-b06e-694381eb6829)
+![image](https://github.com/user-attachments/assets/f6c8bab8-26b9-463f-9940-fecb968d4793)
+
+
+
+
+
+
 
 
