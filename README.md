@@ -15,3 +15,15 @@ XAMPP:
 
 ![image](https://github.com/user-attachments/assets/dc64e865-3cf9-4105-be33-577eb188a226)
 
+RESULTADOS:
+
+KANBAN:
+
+![image](https://github.com/user-attachments/assets/48eab8f1-5c69-420a-8a84-b04b2477a1dd)
+
+
+http://localhost/project/show_zodiac_sign.php
+
+![image](https://github.com/user-attachments/assets/3e063258-e673-438c-b22d-381d7357bc86)
+
+
