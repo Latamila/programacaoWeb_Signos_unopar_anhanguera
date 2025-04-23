@@ -1,5 +1,7 @@
 # programacaoWeb_Signos_unopar_anhanguera
 ---
+# Relátório da prática em .doc está nos arquivos. 
+
 Desenvolver um uma página web para descobrir o seu signo de acordo com a sua data de nascimento. A página inicial irá conter um formulário para que o usuário insira sua data de nascimento e clique em um botão que irá redireciona-lo para uma outra página contendo as principais informações do seu signo zodiacal.
 
 Ferramentas utilizadas:
@@ -15,7 +17,13 @@ XAMPP:
 
 ![image](https://github.com/user-attachments/assets/dc64e865-3cf9-4105-be33-577eb188a226)
 
+
+
+
 RESULTADOS:
+
+![image](https://github.com/user-attachments/assets/3900eea8-4cb0-4630-8d7f-8779317a980c)
+
 
 KANBAN:
 
