@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+version="1.0"?>
 <signos>
     <signo>
         <dataInicio>21/01</dataInicio>
@@ -14,50 +14,69 @@
         <dataInicio>21/03</dataInicio>
         <dataFim>20/04</dataFim>
         <signoNome>Áries</signoNome>
+        <descricao>Eu vou primeiro e pergunto depois - quem precisa de freio quando tem coragem?</descricao>
+
     </signo>
     <signo>
         <dataInicio>21/04</dataInicio>
         <dataFim>20/05</dataFim>
         <signoNome>Touro</signoNome>
+        <descricao>Café, cobertor e estabilidadde emocional; só me tire daqui se for para algo melhor. </descricao>
+
     </signo>
     <signo>
         <dataInicio>21/05</dataInicio>
         <dataFim>20/06</dataFim>
         <signoNome>Gêmeos</signoNome>
+        <descricao>Tenho 50 abas abertas na cabeça e todas fazem sentido, eu acho. </descricao>
+
     </signo>
     <signo>
         <dataInicio>21/06</dataInicio>
         <dataFim>22/07</dataFim>
         <signoNome>Câncer</signoNome>
+        <descricao>Meu coração é minha bússola, então trate-o com cuidado! </descricao>
+
     </signo>
     <signo>
         <dataInicio>23/07</dataInicio>
         <dataFim>22/08</dataFim>
         <signoNome>Leão</signoNome>
+        <descricao>Não é ego, é brilho próprio - apenas aprecie o show. </descricao>
+
     </signo>
     <signo>
         <dataInicio>23/08</dataInicio>
         <dataFim>22/09</dataFim>
         <signoNome>Virgem</signoNome>
+        <descricao>Organizado até no Caos: se eu perdi algo, deve estar no lugar certo. </descricao>
+
     </signo>
     <signo>
         <dataInicio>23/09</dataInicio>
         <dataFim>22/10</dataFim>
         <signoNome>Libra</signoNome>
+        <descricao>No dilema pizza ou sushi, posso escolher os dois (ou nenhuma decisão ainda?).</descricao>
+
     </signo>
     <signo>
         <dataInicio>23/10</dataInicio>
         <dataFim>21/11</dataFim>
         <signoNome>Escorpião</signoNome>
+        <descricao>Sou profundo como o mar: você vê a superfície, mas cuidado com a intensidade.</descricao>
+
     </signo>
     <signo>
         <dataInicio>22/11</dataInicio>
         <dataFim>21/12</dataFim>
         <signoNome>Sagitário</signoNome>
+        <descricao>Vida é aventura, e eu sou o explorador sempre pronto pra próxima!</descricao>
+
     </signo>
     <signo>
         <dataInicio>22/12</dataInicio>
         <dataFim>20/01</dataFim>
         <signoNome>Capricórnio</signoNome>
+        <descricao>Trabalho agora, descanso depois (mesmo que 'depois' nunca chegue).</descricao>
     </signo>
 </signos>
